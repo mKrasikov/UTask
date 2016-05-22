@@ -3,5 +3,7 @@ public class Hello {
   public void returnHello(){
 	int newCount = 10;
 	System.out.println("Hello world!" + newCount);
+	int count = 10;
+	System.out.println("Hello world!" + count);
   }
 }
