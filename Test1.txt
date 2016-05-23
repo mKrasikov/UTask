@@ -2,4 +2,5 @@ public class Hello {
 
   public void returnHello(){
 	int newCount = 11;
+	int newCount = 12;
 	System.out.println("Hello world!" + newCount);
