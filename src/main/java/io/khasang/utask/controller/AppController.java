@@ -4,7 +4,9 @@ public class AppController {
 
     public void newBranchMethod() {
         System.out.println("Hello");
-    public void masterBranshMethod() {
+    }
+
+    public void masterBranchMethod() {
         System.out.println("Hi");
     }
 
