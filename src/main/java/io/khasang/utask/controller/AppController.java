@@ -3,7 +3,7 @@ package io.khasang.utask.controller;
 public class AppController {
 
     public void newBranchMethod() {
-        System.out.println("Hello everybody");
+        System.out.println("Hello all");
     }
 
     public void masterBranchMethod() {
