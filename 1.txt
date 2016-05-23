@@ -8,6 +8,8 @@ public class Hello {
          System.out.println("how do yo do" + count);
 System.out.println("how do yo do5" + count);
 System.out.println("how do yo do6" + count);
+System.out.println("how do yo do6" + count);
+System.out.println("how do yo do6" + count);
 
   }
 }
