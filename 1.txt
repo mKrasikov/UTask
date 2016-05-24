@@ -7,6 +7,6 @@ public class Hello {
 	int count = 12;
 	int count = 103;
 	System.out.println("Hello world!" + count);
-         System.out.println("делаю, что хочу" + count);
+         System.out.println("делаю, что хочу, потому что так хочу" + count);
   }
 }
