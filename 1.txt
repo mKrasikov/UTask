@@ -4,6 +4,14 @@ public class Hello {
 	int newCount = 10;
 	System.out.println("Hello world!" + newCount);
 	int count = 10;
+	int count = 12;
+	int count = 103;
 	System.out.println("Hello world!" + count);
+         System.out.println("how do yo do" + count);
+System.out.println("how do yo do5" + count);
+System.out.println("how do yo do6" + count);
+System.out.println("вставим что нить новое" + count);
+System.out.println("how do yo do6" + count);
+System.out.println("how do yo do6" + count);
   }
 }
